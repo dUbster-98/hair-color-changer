@@ -1,0 +1,1 @@
+name = 'testresults' + img.split('', 1)[0] + '.jpg'
